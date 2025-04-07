@@ -2,7 +2,6 @@ import Header from "@/components/header"
 import Footer from "@/components/footer"
 import Hero from "@/components/hero"
 import ServiceSection from "@/components/service-section"
-import Stats from "@/components/stats"
 import Testimonials from "@/components/testimonials"
 import CaseStudies from "@/components/case-studies"
 import ContactCta from "@/components/contact-cta"
@@ -115,7 +114,7 @@ export default function Home() {
     <main className="min-h-screen">
       <Header />
       <Hero />
-      <Stats />
+   
       <div>
         {services.map((service, index) => (
           <ServiceSection
