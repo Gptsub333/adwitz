@@ -54,7 +54,7 @@ export default function Footer() {
               <li className="flex items-start">
                 <MapPin className="h-5 w-5 mr-3 text-amber-500 flex-shrink-0 mt-0.5" />
                 <span>
-                  2 Prospect way, whitby ON L1N OLN
+                  2 Prospect way, whitby ON L1N 0L4
                   <br />
                   Canada
                 </span>
