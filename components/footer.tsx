@@ -54,14 +54,14 @@ export default function Footer() {
               <li className="flex items-start">
                 <MapPin className="h-5 w-5 mr-3 text-amber-500 flex-shrink-0 mt-0.5" />
                 <span>
-                  123 Marketing Street, Suite 100
+                  2 Prospect way, whitby ON L1N OLN
                   <br />
-                  New York, NY 10001
+                  Canada
                 </span>
               </li>
               <li className="flex items-center">
                 <Phone className="h-5 w-5 mr-3 text-amber-500 flex-shrink-0" />
-                <span>(555) 123-4567</span>
+                <span>+1 (905) 965-3062</span>
               </li>
               <li className="flex items-center">
                 <Mail className="h-5 w-5 mr-3 text-amber-500 flex-shrink-0" />
